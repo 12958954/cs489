@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/work.dir/input.c.o CMakeFiles/work.dir/job.c.o CMakeFiles/work.dir/main.c.o -o work 

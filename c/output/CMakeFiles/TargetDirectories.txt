@@ -1,0 +1,3 @@
+/home/hadilo/CS489-build-exercise/c/output/CMakeFiles/work.dir
+/home/hadilo/CS489-build-exercise/c/output/CMakeFiles/edit_cache.dir
+/home/hadilo/CS489-build-exercise/c/output/CMakeFiles/rebuild_cache.dir
